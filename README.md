@@ -1,16 +1,18 @@
-# jarvision
+# SaveNest
 
-A new Flutter project.
+A demo Project fot SaveNest
 
-## Getting Started
+## Updates
+For more details you can access the specific projects from here
 
-This project is a starting point for a Flutter application.
+- [Frontend Repo](https://github.com/phantom037/SaveNest_Frontend)
+- [Backend Repo](https://github.com/phantom037/SaveNest_Backend/tree/main)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A few resources to get you started if this you need to run our project:
+
+For backend: Java installed (recommend Java17), Maven, Firebase config(contact us to get the secret key to access our database)
+For frontend: Flutter installed (reccommend version >= 3.0), Xcode installed with Swift languages package, install all requirements packages in pom.xml (contact us to get the secret key to access our database)
+Fore database: Firebase storeage (to store photos) and Firestore database (store users and transaction data)
